@@ -2,23 +2,21 @@
 Pizza
 This Repository contains pizza cafe.
 ## Project Author
-Jadiel Mwangi
+lawrence Ireri
 ## Project Description 
-* Pizza is a page that provides a plantform where buyers can order  and recieve their pizza. also it have contacts part and a footer at the bottom of the page.
-
+*This is a website for papi pizza where customers can order pizza according to their prefference and can be delivered to them right at their doorstep.
 ## Setup Instructions
-* git clone https://github.com/jadielmwangi/best-pizza on your terminal.
-* Navigate to the portfolio folder through cd Documents/Delani-studio.
-* Open the folder in your favourite editor,for vscode,is code . and for atom, atom .
+* git clone https://github.com/leetheonly/papi-pizza on your terminal.
+* open the code in terminal using code . (if using visual stusio) or atom .(if using atom)
 * Open the index.html in your browser
 
 ## Technologies used
-* HTML to create a webpage framework.
-* CSS used to styles the page.
-* Boostrap.css to styles the page.
-* Javascript to make the page interactive.
-* jQuery to make the page more interactive to users.
-* Google fonts to make contents easily visible. 
+* HTML 
+* CSS 
+* Boostrap.css 
+* Javascript 
+* jQuery 
+* Google
 
 ## Live link
 * Click to get my Github link:
